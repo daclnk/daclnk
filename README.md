@@ -5,7 +5,7 @@
     <img width="10" />
     <img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/devicon/php.svg" alt="skill-icons:php-dark" height="40" />
+    <img src="https://api.iconify.design/devicon/php.svg" alt="devicon:php" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/devicon/mysql.svg" alt="logos:mysql" height="40" />
+    <img src="https://api.iconify.design/devicon/mysql.svg" alt="devicon:mysql" height="40" />
 </div>

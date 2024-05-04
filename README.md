@@ -1,13 +1,16 @@
-<p align="center">
-    Hello
-</p>
-<div align="center"><img src="https://api.iconify.design/material-symbols/html.svg" alt="material-symbols:html" height="40" />
+<div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/material-symbols/css.svg" alt="material-symbols:css" height="40" />
+    <img src="https://api.iconify.design/devicon/css3.svg" alt="devicon:css3" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/material-symbols/javascript.svg" alt="material-symbols:javascript" height="40" />
+    <img src="https://api.iconify.design/devicon/bootstrap.svg" alt="devicon:bootstrap" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/material-symbols/php.svg" alt="material-symbols:php" height="40" />
+    <img src="https://api.iconify.design/devicon/javascript.svg" alt="devicon:javascript" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/simple-icons/mysql.svg" alt="simple-icons:mysql" height="40" />
+    <img src="https://api.iconify.design/devicon/react.svg" alt="devicon:react" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/php.svg" alt="devicon:php" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/mysql.svg" alt="devicon:mysql" height="40" />
+    <img width="10" />
+    <img src="https://api.iconify.design/devicon/java.svg" alt="devicon:java" height="40" />
 </div>
